@@ -1,0 +1,81 @@
+{
+  "languages": {
+    "ar-EG": {
+      "name": "العربية",
+      "dir": "rtl"
+    },
+    "en-GB": {
+      "name": "English",
+      "dir": "ltr"
+    }
+  },
+  "GREETING": "مرحبا بك",
+  "LANGUAGE": "عربي",
+  "PERCENTAGEOFACHIEVINGTHETARGET": "نسبة تحقيق المستهدف",
+  "PRODUCTIVITYCOMPARISON": "مقارنة الانتاجية",
+  "CURRENTMONTH": "الشهر الحالي",
+  "PREVIOUSMONTH": "الشهر السابق",
+  "PERCENTAGEOFCHANGE": "نسبة التغير",
+  "loans": {
+    "numberOfLoans": "عدد القروض",
+    "amountOfLoans": "قيمة القروض",
+    "LoansNotificationMessage": "طلب قرض في انتظار قرارك",
+    "applicationcode": "كود طلب القرض",
+    "workflowErrorMessage": "تم تعليق طلب القرض بسبب عدم امكانية تطبيق اختيارات نوع القرض. سيتم إضافة الطلب عند توفر الامكانية."
+  },
+  "jobs": {
+    "SupervisedJobsTitle": "وظائف تحت الإشراف",
+    "JobName": "اسم الوظيفة",
+    "reassignTo": "إعادة التعيين إلى",
+    "reassign": "إعادة تعيين"
+  },
+  "searchOptions": {
+    "branchFilter": "اختار فرع",
+    "branchSort": "ترتيب الفروع",
+    "userSort": "ترتيب المستخدمين",
+    "outOf": "من",
+    "noData": "لاتوجد بيانات"
+  },
+  "clients": {
+    "clientname": "اسم العميل/ة",
+    "clientcode": "كود العميل/ة"
+  },
+  "users": {
+    "username": "اسم المستخدم/ة",
+    "user": "المستخدم/ة"
+  },
+  "branches": {
+    "branch": "الفرع"
+  },
+  "generic": {
+    "save": "حفظ",
+    "deadline": "الموعد النهائي للتسليم",
+    "deadlineExceeded": "تجاوز الموعد النهائي",
+    "sortAsc": "ترتيب تصاعدي",
+    "sortDesc": "ترتيب تنازلي",
+    "noSort": "لم يتم تحديد أي اختيار"
+  },
+  "numberOfCreditOfficers": "عدد مسئولي الائتمان",
+  "averageProductivity": "متوسط الانتاجية",
+  "portfolioComparison": "مقارنة المحفظة",
+  "number": "عدد",
+  "amount": "قيمة",
+  "days": {
+    "saturday": "السبت",
+    "sunday": "الأحد",
+    "monday": "الاثنين",
+    "tuesday": "الثلاثاء",
+    "wednesday": "الأربعاء",
+    "thursday": "الخميس",
+    "friday": "الجمعة"
+  },
+  "notifications": {
+    "loanAppExpired": "طلب القرض الذي تجاوز الموعد النهائي يحتاج إلى مراجعة",
+    "userLoanAppExpired": "لديه طلب قرض تجاوز الموعد النهائي للمراجعة",
+    "loanAppReview": "طلب القرض يحتاج إلى مراجعة",
+    "loanSuspended": "طلب القرض معلق"
+  },
+  "loanApp": {
+    "createSuccess": "تم اضافة طلب القرض بنجاح"
+  }
+}

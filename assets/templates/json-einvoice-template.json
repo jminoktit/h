@@ -1,0 +1,113 @@
+[
+  {
+    "issuer": {
+      "type": "B",
+      "id": "10201020102",
+      "name": "My company",
+      "address": {
+        "branchId": "1234",
+        "country": "EG",
+        "governate": "Giza Governorate",
+        "regionCity": "Dokki",
+        "street": "17 Nabil Al Wakad",
+        "buildingNumber": "17",
+        "postalCode": "",
+        "floor": "",
+        "room": "",
+        "landmark": "",
+        "additionalInformation": ""
+      }
+    },
+    "receiver": {
+      "type": "B",
+      "id": "10201020102",
+      "name": "My company",
+      "address": {
+        "country": "EG",
+        "governate": "Giza Governorate",
+        "regionCity": "Dokki",
+        "street": "17 Nabil Al Wakad",
+        "buildingNumber": "17",
+        "postalCode": "",
+        "floor": "",
+        "room": "",
+        "landmark": "",
+        "additionalInformation": ""
+      }
+    },
+    "documentType": "I",
+    "documentTypeVersion": "1.0",
+    "dateTimeIssued": "2015-02-13T13:15:00Z",
+    "taxpayerActivityCode": "9478",
+    "internalId": "24883",
+    "purchaseOrderReference": "P-233-A6375",
+    "purchaseOrderDescription": "",
+    "salesOrderReference": "828874-023/233",
+    "salesOrderDescription": "",
+    "proformaInvoiceNumber": "",
+    "payment": {
+      "bankName": "Alpha Bank",
+      "bankAddress": "",
+      "bankAccountNo": "12-1982939",
+      "bankAccountIBAN": "",
+      "swiftCode": "",
+      "terms": ""
+    },
+    "delivery": {
+      "approach": "",
+      "packaging": "",
+      "dateValidity": "2015-02-13T13:15:00Z",
+      "exportPort": "",
+      "countryOfOrigin": "SA",
+      "grossWeight": 9929.0,
+      "netWeight": 9400.0,
+      "terms": ""
+    },
+    "invoiceLines": [
+      {
+        "description": "One ton of Aria apples",
+        "itemType": "GS1",
+        "itemCode": "10003752",
+        "unitType": "kg",
+        "quantity": 4.44444,
+        "unitValue": {
+          "currencySold": "EGP",
+          "amountEGP": 1.21984,
+          "amountSold": 1.21984,
+          "currencyExchangeRate": 1.92992
+        },
+        "salesTotal": 23.67485,
+        "total": 455.12875,
+        "valueDifference": 10.68942,
+        "totalTaxableFees": 1.25782,
+        "netTotal": 23.67957,
+        "itemsDiscount": 12.22785,
+        "discount": {
+          "rate": 5.0,
+          "amount": 10.00678
+        },
+        "taxableItems": [
+          {
+            "taxType": "123",
+            "amount": 2.00987,
+            "subType": "345",
+            "rate": 2.0
+          }
+        ],
+        "internalCode": "8383S"
+      }
+    ],
+    "totalSalesAmount": 8873.29956,
+    "totalDiscountAmount": 663.23985,
+    "netAmount": 8183.23857,
+    "taxTotals": [
+      {
+        "taxType": "123",
+        "amount": 838.10873
+      }
+    ],
+    "extraDiscountAmount": 12.09864,
+    "totalItemsDiscountAmount": 663.23946,
+    "totalAmount": 8934.00769
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "languages": {
+    "ar-EG": {
+      "name": "العربية",
+      "dir": "rtl"
+    },
+    "en-GB": {
+      "name": "English",
+      "dir": "ltr"
+    }
+  },
+
+  "GREETING": "Hello",
+  "LANGUAGE": "English",
+  "PERCENTAGEOFACHIEVINGTHETARGET": "Percentage of achieving the target",
+  "PRODUCTIVITYCOMPARISON": "Productivity comparison",
+  "CURRENTMONTH": "Current Month",
+  "PREVIOUSMONTH": "Previous Month",
+  "PERCENTAGEOFCHANGE": "Percentage Of Change",
+  "numberOfCreditOfficers": "number of credit officers",
+  "averageProductivity": "average productivity",
+  "portfolioComparison": "portfolio comparison",
+  "number": "number",
+  "amount": "amount",
+  "days": {
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday"
+  },
+  "loans": {
+    "numberOfLoans": "Number Of Loans",
+    "amountOfLoans": "Amount Of Loans",
+    "LoansNotificationMessage": "loan applications are waiting for your decision",
+    "applicationcode": "Loan Application Code",
+    "workflowErrorMessage": "The loan application has been suspended because the loan type selections cannot be applied. The request will be added when available."
+  },
+  "jobs": {
+    "SupervisedJobsTitle": "Supervised Jobs",
+    "JobName": "Job Name",
+    "reassignTo": "Reassign to",
+    "reassign": "Reassign"
+  },
+  "searchOptions": {
+    "branchFilter": "Filter by Branch",
+    "branchSort": "Sort by Branch",
+    "userSort": "Sort by User",
+    "outOf": "out of",
+    "noData": "No data found"
+  },
+  "clients": {
+    "clientname": "Client Name",
+    "clientcode": "Client Code"
+  },
+  "users": {
+    "username": "Username",
+    "user": "User"
+  },
+  "branches": {
+    "branch": "Branch"
+  },
+  "generic": {
+    "save": "Save",
+    "deadlineExceeded": "Deadline Exceeded",
+    "deadline": "Deadline",
+    "sortAsc": "Ascending Order",
+    "sortDesc": "Descending Order",
+    "noSort": "No specific order chosen"
+  },
+  "notifications": {
+    "loanAppExpired": "A loan application that exceeded the deadline needs to be reviewed",
+    "userLoanAppExpired": "has a loan application that exceeded the deadline for review",
+    "loanAppReview": "Loan application needs to be reviewed",
+    "loanSuspended": "Loan application is suspended"
+  },
+  "loanApp": {
+    "createSuccess": "The loan application has been added successfully"
+  }
+}
