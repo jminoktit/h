@@ -4,7 +4,16 @@
 <head>
   <meta charset="utf-8"/>
   <title>Mohassil</title>
-  <base href="/"/>
+  <base href="/h/"/>
+  <script>
+    (function() {
+      if (window.sessionStorage && sessionStorage.redirect) {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        window.history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
   <script src="./env.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="color-scheme" content=""/>
